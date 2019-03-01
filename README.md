@@ -19,7 +19,7 @@ Bamazon is a CLI that mimicks the customer side of a store using node and mySQL.
 ### Running Program
 ![Alt text](ReadMe_ScreenShots\node.JPG)
 ### Displaying Products
-![Alt text](ReadMe_ScreenShots\displayProd.JPG)
+![Alt text](https://github.com/aileenflanagan/Bamazon/blob/master/ReadMe_ScreenShots/displayProd.JPG?raw=true)
 ### Prompt for ID of chosen product and quantity
 ![Alt text](ReadMe_ScreenShots\prompt.JPG)
 ### Invalid ID Entered

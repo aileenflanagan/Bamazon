@@ -29,7 +29,7 @@ Bamazon is a CLI that mimicks the customer side of a store using node and mySQL.
 ### When user enters a number larger than what is in stock
 ![Alt text](ReadMe_ScreenShots\not_enough_in_stock.JPG)
 ### Correct ID and quantity entered
-![Alt text](ReadMe_ScreenShots\valid_id_and_qty.JPG)
+![Alt text](C:\Users\ailee\Documents\codingBootcamp\homeworks\Bamazon\ReadMe_ScreenShots\valid_id_and_qty.JPG)
 
 ## Authors
     * Aileen Flanagan

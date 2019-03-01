@@ -29,7 +29,7 @@ Bamazon is a CLI that mimicks the customer side of a store using node and mySQL.
 ### When user enters a number larger than what is in stock
 ![Alt text](https://github.com/aileenflanagan/Bamazon/blob/master/ReadMe_ScreenShots/not_enough_in_stock.JPG?raw=true)
 ### Correct ID and quantity entered
-![Alt text](C:\Users\ailee\Documents\codingBootcamp\homeworks\Bamazon\ReadMe_ScreenShots\valid_id_and_qty.JPG)
+![Alt text](https://github.com/aileenflanagan/Bamazon/blob/master/ReadMe_ScreenShots/valid_id_and_qty.JPG?raw=true)
 
 ## Known Issues
     The program does prompt the user before displaying the products available, as well as after the user has completed a purchase. Additionally, the prompt does not show again until a key is pressed. 
